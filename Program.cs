@@ -1,2 +1,3 @@
-﻿string MensagemDeBoasVindas = "Boas vindas ao Screen_sound!";
+﻿string mensagemDeBoasVindas = "Boas vindas ao Screen_sound!";
+Console.WriteLine(mensagemDeBoasVindas);
 

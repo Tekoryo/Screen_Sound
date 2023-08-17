@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj": {}
+    "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj": {}
   },
   "projects": {
-    "H:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj": {
+    "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj",
+        "projectUniqueName": "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj",
         "projectName": "Screen_Sound",
-        "projectPath": "H:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj",
+        "projectPath": "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "H:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\obj\\",
+        "outputPath": "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
