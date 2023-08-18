@@ -1,14 +1,17 @@
-﻿string mensagemDeBoasVindas = "Boas vindas ao Screen_sound!";
+﻿
 int FimDoPrograma = 1;
                               
-void ExibirMensagemDeBoasVindas()
+void ExibirLogo()
 {
 
     Console.WriteLine(@"
 █▀ █▀▀ █▀█ █▀▀ █▀▀ █▄░█   █▀ █▀█ █░█ █▄░█ █▀▄
 ▄█ █▄▄ █▀▄ ██▄ ██▄ █░▀█   ▄█ █▄█ █▄█ █░▀█ █▄▀");
-    Console.WriteLine(mensagemDeBoasVindas);
+
 }
+
+List<String> ListaBanda = new List<string>{"BTS","Black Pink","Test"};
+
 
 void ExibirOpcoesDoMenu()
 {
@@ -23,8 +26,6 @@ void ExibirOpcoesDoMenu()
     string opcaoEscolhida  = Console.ReadLine()!;
     int opcaoEscolhidaNumerica = int.Parse(opcaoEscolhida);
     
-    Console.WriteLine("Você digitou a opcão " + opcaoEscolhidaNumerica);
-
     switch(opcaoEscolhidaNumerica){
         case 1:
         RegistrarBanda();
@@ -52,11 +53,25 @@ void ExibirOpcoesDoMenu()
 
 void RegistrarBanda()
 {
-
+    Console.Clear();
+    Console.WriteLine("Registo de bandas");
+    Console.Write("Digite o nome da banda que deseja registra: ");
+    String NomeDaBanda = Console.ReadLine()!;
+    ListaBanda.Add(NomeDaBanda);
+    Console.WriteLine($"A banda {NomeDaBanda} foi registrada com sucesso");
+    Thread.Sleep(1000);
+    Console.Clear();
 }
 void ExibirBandas()
 {
-
+    Console.Clear();
+    Console.WriteLine("Exibir todas as bandas resgistada!\n");
+    foreach(String Banda in ListaBanda){
+        Console.WriteLine($"Banda: {Banda}");
+    }
+    Console.WriteLine("\nAperte qualquer tecla para voltar ao menu:");
+    Console.ReadKey();
+    Console.Clear();
 }
 void AvaliarBanda()
 {
@@ -73,9 +88,9 @@ bool acabou()
     return false;
 }
 
-ExibirMensagemDeBoasVindas();
 
 do{
+ExibirLogo();
 ExibirOpcoesDoMenu();
 
 }while(!acabou());

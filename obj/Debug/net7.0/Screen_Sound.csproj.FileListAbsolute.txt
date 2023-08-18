@@ -12,3 +12,17 @@ H:\Programação\Linguagem C Alura\C# na alura\Screen_Sound\obj\Debug\net7.0\ref
 H:\Programação\Linguagem C Alura\C# na alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.pdb
 H:\Programação\Linguagem C Alura\C# na alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.genruntimeconfig.cache
 H:\Programação\Linguagem C Alura\C# na alura\Screen_Sound\obj\Debug\net7.0\ref\Screen_Sound.dll
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\bin\Debug\net7.0\Screen_Sound.exe
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\bin\Debug\net7.0\Screen_Sound.deps.json
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\bin\Debug\net7.0\Screen_Sound.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\bin\Debug\net7.0\Screen_Sound.dll
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\bin\Debug\net7.0\Screen_Sound.pdb
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.dll
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\refint\Screen_Sound.dll
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.pdb
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\Screen_Sound.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\1 Programação\Estudo de C\Alura\Screen_Sound\obj\Debug\net7.0\ref\Screen_Sound.dll
