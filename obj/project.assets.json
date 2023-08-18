@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Documentos\\1 Programação\\Estudo de C\\Alura\\Screen_Sound\\Screen_Sound.csproj",
+      "projectUniqueName": "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj",
       "projectName": "Screen_Sound",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\1 Programação\\Estudo de C\\Alura\\Screen_Sound\\Screen_Sound.csproj",
+      "projectPath": "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\Screen_Sound.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\1 Programação\\Estudo de C\\Alura\\Screen_Sound\\obj\\",
+      "outputPath": "h:\\Programação\\Linguagem C Alura\\C# na alura\\Screen_Sound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"
