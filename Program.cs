@@ -113,7 +113,26 @@ void AvaliarBanda()
 }
 void ExibirAvaliacaoBandas()
 {
+    Console.Clear();
+    ExibirTituloMenu("Exibir avaliação de Banda!");
 
+    Console.Write("Qual banda quer ver a avalição: ");
+    String NomeDaBanda = Console.ReadLine()!;
+
+    if(BandasRegistrada.ContainsKey(NomeDaBanda)){
+
+        double MediaDaNotaRegistrada = BandasRegistrada[NomeDaBanda].Average();
+        
+        Console.WriteLine($"Esta é a media da banda {NomeDaBanda}: {MediaDaNotaRegistrada} ");
+        
+        Thread.Sleep(2500);
+        Console.Clear();
+
+    }else{
+        Console.WriteLine($"A banda {NomeDaBanda} não foi encontrada!");
+        Thread.Sleep(2500);
+        Console.Clear();
+    }
 }
 
 bool acabou()
