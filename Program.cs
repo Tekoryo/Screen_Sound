@@ -95,6 +95,12 @@ void AvaliarBanda()
         Console.Write($"Qual a nota a banda {NomeDaBanda} merece: ");
         int Nota = int.Parse( Console.ReadLine()!);
 
+        if(Nota < 10 || Nota > 10){
+            Console.WriteLine($"Nota invalida!");
+            Thread.Sleep(1500);
+            return;
+        }
+
         BandasRegistrada[NomeDaBanda].Add(Nota);
 
         Thread.Sleep(1000);
